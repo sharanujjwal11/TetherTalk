@@ -1,4 +1,4 @@
-# TetherTalk 
+# TetherTalk Application
 
 A web based chat application created in java using Servlet, JSP, HTML, CSS, JavaScript, MySQL and Apache Tomcat 10 Web Server.<br> 
 
